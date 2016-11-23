@@ -1,2 +1,3 @@
 # hello-world
-first repository
+first repository of my Andela project
+
